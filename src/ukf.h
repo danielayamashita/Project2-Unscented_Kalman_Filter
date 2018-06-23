@@ -9,10 +9,10 @@
 
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
-#define PRINT_H_
+//#define PRINT_H_
 //#define PRINT_OUTPUTS_H_
-#define PRINT_HEADERS_H_
-#define PRINT_ERRORS_H_
+//#define PRINT_HEADERS_H_
+//#define PRINT_ERRORS_H_
 class UKF {
 public:
 
